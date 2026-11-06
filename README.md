@@ -75,3 +75,22 @@ python make_planners.py --year 2028             # any year
 [DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display) and
 [Poppins](https://fonts.google.com/specimen/Poppins), both under the SIL Open Font License
 (see `fonts/OFL-*.txt`). They can be embedded in PDFs you sell.
+
+## Gumroad launch kit
+
+`launch-kit/Gumroad-Launch-Kit-2027.zip` has everything needed to sell the planners on Gumroad:
+product files (4 versions of each planner + quick start guides + a free sampler), cover images and
+thumbnails, copy-paste listing text, pricing, discount codes, a launch calendar, email templates,
+social captions and marketing images. Open `START-HERE.html` inside the zip first.
+
+Rebuild it (about 35 seconds):
+
+```bash
+pip install reportlab pypdf pypdfium2 pillow
+python -m launchkit.build_kit
+```
+
+- `launchkit/files.py`: planner variants, quick start guide, free sampler
+- `launchkit/images.py`: covers, thumbnails, social posts, backgrounds (built from real page renders)
+- `launchkit/copy.py`: listing copy for every product
+- `launchkit/content/`: START-HERE guide template, offer codes, emails, captions, video shot list

@@ -1,0 +1,39 @@
+DISCOUNT CODES  (Gumroad: Checkout > Discounts > New discount)
+================================================================
+Create each one for "All products" unless noted.
+
+1) EARLYBIRD
+   Type: Percentage   Amount: 35%
+   Products: all 5 planners + bundle
+   Limit: 50 uses
+   Valid: Nov 10 to Nov 17 (end 11:59 pm)
+   Use in: launch posts, launch email, DMs to friends
+
+2) SAMPLER20
+   Type: Percentage   Amount: 20%
+   Products: all 5 planners + bundle
+   Limit: none   Valid: no end date
+   Use in: free sampler content page, sampler email sequence
+
+3) BLACKFRIDAY
+   Type: Percentage   Amount: 40%
+   Products: all 5 planners + bundle
+   Valid: Nov 27 to Dec 1 (Black Friday to Cyber Monday)
+   Use in: BF/CM emails and posts, pinned profile post
+
+4) NEWYEAR
+   Type: Percentage   Amount: 25%
+   Products: all 5 planners + bundle
+   Valid: Dec 26 to Jan 5
+   Use in: New Year emails and posts
+
+5) TEST100  (delete after testing)
+   Type: Percentage   Amount: 100%   Limit: 1 use
+   Use to make a free test purchase of your own product.
+
+LINKS WITH THE CODE BUILT IN
+Add /CODE to the end of any product link and the discount is applied automatically:
+   https://YOURNAME.gumroad.com/l/adhd-planner-2027/EARLYBIRD
+   https://YOURNAME.gumroad.com/l/planner-bundle-2027/BLACKFRIDAY
+
+Only run one public sale code at a time, so buyers aren't confused about which to use.

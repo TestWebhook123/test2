@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Start Here: Gumroad Launch Kit</title>
+<style>{{CSS}}</style>
+</head>
+<body>
+<main>
+<div class="kicker">Gumroad launch kit · {{YEAR}} niche planners</div>
+<h1>Start here</h1>
+<p class="lead">Everything you need to launch five niche planners, a bundle and a free sampler on Gumroad: product files,
+cover images, listing copy, pricing, discount codes, a launch calendar, emails and social posts. Follow the steps in order
+and you can be live in an afternoon.</p>
+
+<nav>
+<a href="#kit">What's in the kit</a>
+<a href="#plan">Store plan &amp; pricing</a>
+<a href="#setup">Account setup</a>
+<a href="#upload">Upload a product</a>
+<a href="#bundle">Bundle &amp; sampler</a>
+<a href="#codes">Discount codes</a>
+<a href="#calendar">Launch calendar</a>
+<a href="#marketing">Marketing</a>
+<a href="#broll">Your photos &amp; b-roll</a>
+<a href="#checklist">Final checklist</a>
+</nav>
+
+<h2 id="kit">1. What's in the kit</h2>
+<table>
+<tr><th>Folder</th><th>What it is</th><th>Where it goes</th></tr>
+<tr><td><b>1-Product-Files</b></td><td>The files buyers download. Each planner folder has 4 PDFs (US Letter or A4, Sunday or Monday start) and a Quick Start Guide. Plus the free sampler PDF.</td><td>Gumroad product &rarr; <b>Content</b> tab</td></tr>
+<tr><td><b>2-Gumroad-Images</b></td><td>Per product: 5 cover images (1920&times;1080, 16:9) in the order to upload, and a square thumbnail (1000&times;1000). Bundle and sampler have 3 covers each.</td><td>Gumroad product &rarr; <b>Cover</b> and <b>Thumbnail</b></td></tr>
+<tr><td><b>3-Listing-Copy</b></td><td><code>listing-copy.html</code>: every field with Copy buttons, including formatted descriptions. Plain .txt versions too.</td><td>Gumroad product page fields</td></tr>
+<tr><td><b>4-Launch-Plan</b></td><td>Discount codes, launch calendar, email templates, social captions, Pinterest titles, video shot list.</td><td>Gumroad Checkout, Emails/Workflows, your socials</td></tr>
+<tr><td><b>5-Marketing-Images</b></td><td>Instagram posts (1080&times;1350), Pinterest pins (1000&times;1500), story/reel covers (1080&times;1920), plain brand backgrounds, a 1500&times;500 header and high-res page previews.</td><td>Instagram, Pinterest, TikTok, X, Canva</td></tr>
+</table>
+
+<h2 id="plan">2. Store plan &amp; pricing</h2>
+<p>Launch <b>7 products</b>. Five focused planners make you findable for specific searches ("nurse planner",
+"ADHD planner"), the bundle raises your average order, and the free sampler builds an email list you can sell to all season.</p>
+<table>
+<tr><th>Product</th><th>Type</th><th>Price</th><th>Custom URL</th></tr>
+{{PRODUCT_ROWS}}
+</table>
+
+<h3>Why these prices</h3>
+<ul>
+<li><b>$14 per planner.</b> Generic digital planners sell for $5 to $10. Yours are niche, dated, hyperlinked, about 108 pages and come in 4 versions, so they belong in the upper-middle of the market. $14 sits under the "$15 = needs thinking" line and leaves room for a meaningful launch discount.</li>
+<li><b>$34 bundle.</b> Five planners bought separately cost $70. $34 is "all five for less than the price of three", easy to say and to see. It's the best option for gift buyers and people who wear two hats (creator + freelancer, nurse + fitness).</li>
+<li><b>Free sampler ($0+).</b> Gumroad collects the email of everyone who downloads it. Those people get a follow-up sequence and a 20% code (SAMPLER20). Leave "pay what you want" on with a $3 suggestion; some people tip.</li>
+<li><b>Fixed prices, not pay-what-you-want</b>, on the paid planners. A clear price converts better for templates.</li>
+<li><b>Don't put prices on images.</b> None of the images in this kit show a price, so you can change prices any time.</li>
+</ul>
+
+<h3>What you keep per sale (approx.)</h3>
+<table>
+<tr><th>Sale</th><th>Direct (your link)</th><th>Through Gumroad Discover</th></tr>
+<tr><td>Planner at $14</td><td>about $11.40</td><td>$9.80</td></tr>
+<tr><td>Planner with launch code ($9.10)</td><td>about $7.10</td><td>$6.37</td></tr>
+<tr><td>Bundle at $34</td><td>about $28.80</td><td>$23.80</td></tr>
+</table>
+<p style="font-size:14px;color:var(--muted)">Direct sales: Gumroad's 10% + $0.50, plus card processing (about 2.9% + $0.30). Discover sales: a flat 30%. Fees change; check gumroad.com/pricing before launch. Some 2026 reports say the minimum payout is now $100, so check Settings &rarr; Payments.</p>
+
+<h3>Price over the season</h3>
+<ul>
+<li><b>Nov 10 to Jan 15:</b> $14 / $34, with timed codes (see section 6).</li>
+<li><b>Jan 16 to Feb 28:</b> keep $14, add a "start any month" angle in posts. The trackers and notes are undated.</li>
+<li><b>From March:</b> drop to $9 / $24, then $7 / $19 from June. A dated planner loses value as the year goes on.</li>
+<li><b>Next step:</b> undated or mid-year (July {{YEAR}} to June 2028) versions can be generated from the same code. Ask me when you're ready.</li>
+</ul>
+
+<h2 id="setup">3. Account setup (once, about 20 minutes)</h2>
+<ol class="steps">
+<li><b>Store name and username.</b> Settings &rarr; Profile. Pick a calm, planner-friendly name (for example "Plan Well Studio"). Your store lives at <code>username.gumroad.com</code>.</li>
+<li><b>Profile picture.</b> Use a photo of yourself (most trusting) or <code>2-Gumroad-Images/06 Bundle - All 5 Planners/thumbnail-square.jpg</code>.</li>
+<li><b>Bio</b> (paste): <i>"Planners made for one kind of person, not everyone. Dated {{YEAR}} digital + printable planners for creators, freelancers, fitness, ADHD brains and nurses."</i></li>
+<li><b>Payouts.</b> Settings &rarr; Payments: add your bank or PayPal, and fill in your tax details so payouts aren't held.</li>
+<li><b>Refund policy.</b> Set a <b>14-day</b> refund window. For a new store with no reviews it builds trust, and very few people ask for refunds on a $14 planner.</li>
+<li><b>Email.</b> Make sure you can reply from the address on your receipts. Buyers will reply to them.</li>
+</ol>
+
+<h2 id="upload">4. Upload a planner (repeat for all 5)</h2>
+<p>Do the Content Creator Planner first, then repeat for the other four. Every field's text is in
+<code>3-Listing-Copy/listing-copy.html</code>; open it in your browser next to Gumroad.</p>
+<ol class="steps">
+<li><b>Products &rarr; New product &rarr; Digital product.</b> Paste the <b>Name</b> and set the <b>Price</b> ($14). Click Next / Customize.</li>
+<li><b>Description:</b> in listing-copy.html press <b>Copy description</b>, click into Gumroad's description box and paste. Headings and bullets come along.</li>
+<li><b>Cover:</b> upload the 5 images from <code>2-Gumroad-Images/&lt;planner&gt;/</code> in number order: <code>cover-1-hero</code> first. The first image is what people see in links and search.</li>
+<li><b>Thumbnail:</b> upload <code>thumbnail-square.jpg</code>. It's used on your profile, in Discover and in buyers' libraries.</li>
+<li><b>URL:</b> set the custom URL to the slug in the copy file (for example <code>content-creator-planner-2027</code>).</li>
+<li><b>Summary</b> and <b>Additional details:</b> paste the summary line, then add each detail row (Format, Pages, Dates, Sizes, Week start, Works with).</li>
+<li><b>Content tab:</b> upload the 5 files from <code>1-Product-Files/&lt;planner&gt;/</code> (4 planner PDFs + Quick Start Guide). Paste the <b>Content page text</b> above the files.</li>
+<li><b>Share tab &rarr; Discover:</b> turn on "list on Discover", pick the category from the copy file (closest match if Gumroad's names differ) and add the 5 tags.</li>
+<li><b>Publish</b>, then <b>test it</b>: create a 100% off code (for example <code>TEST100</code>, limit 1), buy your own product, check that the email and all 5 downloads work, then delete the code.</li>
+</ol>
+<div class="tip">If Gumroad shows tabs with slightly different names (Gumroad updates its editor now and then), the fields are still the same: name, price, description, cover, thumbnail, URL, summary, details, content files, Discover settings.</div>
+
+<h2 id="bundle">5. Bundle &amp; free sampler</h2>
+<h3>Bundle (after the 5 planners are published)</h3>
+<ol class="steps">
+<li>Products &rarr; New product &rarr; <b>Bundle</b>. Add all 5 planners.</li>
+<li>Name, price ($34), description, 3 covers and thumbnail from <code>06 Bundle - All 5 Planners</code>. No files to upload: buyers automatically get each planner's files.</li>
+<li>Publish. If your account has <b>Checkout &rarr; Upsells</b>, add an upsell from any single planner to the bundle with the line: <i>"Want all five for $20 more?"</i></li>
+</ol>
+<h3>Free sampler</h3>
+<ol class="steps">
+<li>New product &rarr; Digital product. Name from the copy file. Price <b>$0</b> with "pay what you want" allowed (suggested $3).</li>
+<li>Upload the sampler PDF from <code>1-Product-Files/07 Free Sampler</code>, add the 3 covers and thumbnail, paste the description.</li>
+<li>In the Content page text, replace each <code>[paste product link]</code> with your real product links.</li>
+<li>Publish. Pin it first on your profile; it's the easiest "yes" for new visitors.</li>
+</ol>
+
+<h3>Order on your profile</h3>
+<p>Free Sampler &rarr; Bundle &rarr; the five planners. A free product at the top gets clicks; the bundle next to it makes $34 look like the smart choice.</p>
+
+<h2 id="codes">6. Discount codes</h2>
+<p>Create these under <b>Checkout &rarr; Discounts</b>, applied to all products. Exact settings are in <code>4-Launch-Plan/offer-codes.txt</code>.</p>
+<table>
+<tr><th>Code</th><th>Discount</th><th>When</th><th>Why</th></tr>
+<tr><td><code>EARLYBIRD</code></td><td>35% off</td><td>Nov 10 to Nov 17, first 50 uses</td><td>Gets first sales and first ratings fast</td></tr>
+<tr><td><code>SAMPLER20</code></td><td>20% off</td><td>Always on</td><td>Turns free sampler downloaders into buyers</td></tr>
+<tr><td><code>BLACKFRIDAY</code></td><td>40% off</td><td>Nov 27 to Dec 1</td><td>The biggest planner-buying weekend of the year</td></tr>
+<tr><td><code>NEWYEAR</code></td><td>25% off</td><td>Dec 26 to Jan 5</td><td>The "fresh start" rush</td></tr>
+</table>
+<div class="tip">Share links with the code built in: <code>yourname.gumroad.com/l/adhd-planner-2027/EARLYBIRD</code> applies the code automatically. Use those links in posts and emails.</div>
+
+<h2 id="calendar">7. Launch calendar</h2>
+<table>
+<tr><th>Dates</th><th>Do this</th></tr>
+<tr><td><b>Nov 6 to 9</b></td><td>Account setup, upload all 7 products, test purchase, create codes. Make 2 to 3 flip-through videos (see section 9).</td></tr>
+<tr><td><b>Tue Nov 10</b></td><td><b>Launch.</b> Post on every channel with EARLYBIRD links. Email or DM people you know who match a niche.</td></tr>
+<tr><td><b>Nov 10 to 26</b></td><td>Pinterest every day (1 to 3 pins), 3 to 4 short videos a week, one niche per day. Reply to every comment.</td></tr>
+<tr><td><b>Nov 17</b></td><td>"EARLYBIRD ends tonight" post and email.</td></tr>
+<tr><td><b>Nov 27 to Dec 1</b></td><td><b>Black Friday to Cyber Monday</b> with BLACKFRIDAY (40%). Email day 1 and the last day. Push the bundle.</td></tr>
+<tr><td><b>Dec 2 to 24</b></td><td>Gift angle: "gift for a nurse", "for your freelancer friend". Gumroad lets buyers gift products. Last-minute digital gifts sell right up to the 24th.</td></tr>
+<tr><td><b>Dec 26 to Jan 5</b></td><td><b>New Year push</b> with NEWYEAR (25%). "Plan your best year" content. This is peak planner season.</td></tr>
+<tr><td><b>Jan 6 to 31</b></td><td>"It's not too late to start" angle, full price. Share buyer reviews.</td></tr>
+<tr><td><b>February onward</b></td><td>Review the numbers (section 10), lower prices per the season plan, and plan the next niche or an undated version.</td></tr>
+</table>
+
+<h2 id="marketing">8. Marketing that works for planners</h2>
+<h3>Pinterest (best long-term traffic for planners)</h3>
+<ul>
+<li>Make a free business account. Create one board per niche plus "{{YEAR}} Planners".</li>
+<li>Pin the images in <code>5-Marketing-Images/pinterest-pin-1000x1500</code> and the page previews, using the titles and descriptions in <code>social-captions.txt</code>. Link every pin to the matching product.</li>
+<li>Pin 1 to 3 times a day. Pins keep bringing traffic for months, and planner searches peak from November to January.</li>
+</ul>
+<h3>Short video (TikTok, Reels, Shorts)</h3>
+<ul>
+<li>The format that sells planners: a <b>flip-through</b> of the planner on an iPad, a tap on a tab to show the links, filling in a page. Use the hooks and scripts in <code>social-captions.txt</code>.</li>
+<li>One niche per video. Hook in the first second: "If you're a nurse on rotating shifts, you need this."</li>
+<li>Use <code>story-reel-cover-1080x1920</code> images as video covers and stories.</li>
+</ul>
+<h3>Communities</h3>
+<ul>
+<li>Niche communities (nursing, freelancing, ADHD, fitness, creator groups) love genuinely useful freebies. Share the <b>free sampler</b>, not a sales pitch, and follow each group's self-promotion rules.</li>
+</ul>
+<h3>Email (built into Gumroad)</h3>
+<ul>
+<li><b>Workflows:</b> set up the 3-email sequence for sampler downloaders (<code>email-templates.txt</code>).</li>
+<li><b>Emails (broadcasts):</b> launch, Black Friday, New Year. The templates are written for you.</li>
+</ul>
+
+<h2 id="broll">9. Your photos &amp; b-roll (optional, but they help)</h2>
+<p>Everything in this kit works without photos. Real footage makes covers and videos feel more trustworthy. If you share any of these, I can build lifestyle versions of the covers and pins:</p>
+<ul>
+<li><b>Horizontal (16:9) desk shots</b> with empty space on one side: desk, coffee, notebook, iPad, plants. Good as cover backgrounds.</li>
+<li><b>Vertical (9:16) clips</b> of hands using an iPad with a pencil, turning pages of printed sheets, a printer printing.</li>
+<li><b>Niche props:</b> scrubs or a stethoscope (nurse), dumbbells or sneakers (fitness), ring light or camera (creator), laptop with invoices (freelancer), sticky notes or fidget toy (ADHD).</li>
+<li><b>Screen recording</b> of you flipping through the planner in GoodNotes or Notability. It's the single most convincing asset.</li>
+</ul>
+<p>Shot list and captions are in <code>4-Launch-Plan/video-shot-list.txt</code>.</p>
+
+<h2 id="checklist">10. Final checklist</h2>
+<ul>
+<li>&#9744; Profile: name, photo, bio, payout and tax details set, 14-day refund policy</li>
+<li>&#9744; 5 planners published: name, price, description, 5 covers, thumbnail, URL, summary, details, 5 files, content text, Discover category and tags</li>
+<li>&#9744; Bundle published with all 5 planners, plus an upsell if available</li>
+<li>&#9744; Sampler published at $0+, product links pasted into its content text</li>
+<li>&#9744; Test purchase done for one planner and the bundle</li>
+<li>&#9744; Codes created: EARLYBIRD, SAMPLER20, BLACKFRIDAY, NEWYEAR</li>
+<li>&#9744; Sampler email workflow switched on</li>
+<li>&#9744; Pinterest boards made, first 10 pins scheduled</li>
+<li>&#9744; First 3 videos recorded</li>
+</ul>
+<h3>Numbers to watch (Gumroad Analytics)</h3>
+<ul>
+<li><b>Views to sales:</b> 2 to 5% is healthy for templates. Below 1% after 500+ views? Test a different first cover or name.</li>
+<li><b>Best-selling niche:</b> put more videos and pins into the winner, and consider a second product for that audience (for example a nursing-student planner).</li>
+<li><b>Bundle share:</b> if under 15% of orders, make the upsell more visible.</li>
+</ul>
+<p style="margin-top:40px;color:var(--muted);font-size:14px">The kit has {{TOTAL_PAGES}} planner pages in total. All fonts (DM Serif Display, Poppins) are under the SIL Open Font License, so you're free to sell PDFs that use them.</p>
+</main>
+</body>
+</html>

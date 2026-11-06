@@ -1,0 +1,149 @@
+EMAIL TEMPLATES  (Gumroad: Emails for broadcasts, Workflows for automatic sequences)
+=====================================================================================
+Replace [LINK] placeholders with your product links. Keep emails short: one message, one link.
+
+
+-------------------------------------------------------------------------------------
+WORKFLOW: FREE SAMPLER FOLLOW-UP   (trigger: purchase of the Free Sampler)
+-------------------------------------------------------------------------------------
+
+EMAIL 1  (send immediately)
+Subject: Your free 2027 planner pages are here
+
+Hi!
+
+Your sampler is ready to download (the link is also in your receipt).
+
+Inside you'll find real January pages from all five planners:
+- Content Creator
+- Freelancer Business
+- Fitness & Wellness
+- ADHD-Friendly
+- Nurse Shift
+
+Print them or drop them into GoodNotes or Notability, and see which one feels like it was made for you.
+
+Talk soon,
+[Your name]
+
+
+EMAIL 2  (send 2 days later)
+Subject: Which planner fits you?
+
+Quick guide:
+
+- You make content or want to grow an audience: the Content Creator Planner [LINK]
+- You freelance or run a one-person business: the Freelancer Business Planner [LINK]
+- You're building fitness and health habits: the Fitness & Wellness Planner [LINK]
+- Normal planners never stick for you: the ADHD-Friendly Planner [LINK]
+- You work rotating or 12-hour shifts: the Nurse Shift Planner [LINK]
+
+The full planners are dated for all of 2027, fully hyperlinked (tap a tab to jump to any month),
+and come in US Letter + A4 with Sunday + Monday start.
+
+As a thank-you for trying the sampler, code SAMPLER20 takes 20% off any of them.
+
+[Your name]
+
+
+EMAIL 3  (send 5 days later)
+Subject: The one I'd pick if I were you
+
+If you're stuck between two, the bundle gets you all five for less than the price of three: [BUNDLE LINK]
+
+It's popular with people who wear more than one hat (creator + freelancer is the classic combo)
+and with anyone gifting a planner to a friend.
+
+SAMPLER20 works on the bundle too.
+
+Happy planning,
+[Your name]
+
+
+-------------------------------------------------------------------------------------
+WORKFLOW: AFTER PURCHASE   (trigger: purchase of any planner or the bundle)
+-------------------------------------------------------------------------------------
+
+EMAIL  (send 7 days later)
+Subject: How's your planner going?
+
+Hi!
+
+You've had your planner for a week. How's it going?
+
+Two quick tips:
+1. In GoodNotes, if a link doesn't respond, switch to Read-only mode or tap with your finger.
+2. Need more tracker pages? Duplicate them from your app's page menu or reprint them. They're undated.
+
+If you're enjoying it, a quick rating on Gumroad would mean a lot to a small shop: [PRODUCT LINK]
+And if anything isn't working, just reply. I read every email.
+
+[Your name]
+
+
+-------------------------------------------------------------------------------------
+BROADCAST: LAUNCH   (Nov 10)
+-------------------------------------------------------------------------------------
+Subject: They're here: 2027 planners made for one kind of person
+
+Hi!
+
+I just launched five 2027 planners, each made for one kind of person instead of "everyone":
+
+- Content Creator Planner [LINK]
+- Freelancer Business Planner [LINK]
+- Fitness & Wellness Planner [LINK]
+- ADHD-Friendly Planner [LINK]
+- Nurse Shift Planner [LINK]
+
+Dated Jan to Dec 2027, fully hyperlinked for GoodNotes and Notability, and printable in US Letter or A4.
+
+Launch week only: code EARLYBIRD takes 35% off (first 50 orders, ends Nov 17).
+
+Not sure yet? Grab the free sampler with real pages from all five: [SAMPLER LINK]
+
+[Your name]
+
+
+-------------------------------------------------------------------------------------
+BROADCAST: EARLYBIRD LAST CALL   (Nov 17)
+-------------------------------------------------------------------------------------
+Subject: 35% off ends tonight
+
+Quick reminder: EARLYBIRD (35% off any 2027 planner or the bundle) ends tonight at midnight.
+
+Bundle, all five planners: [BUNDLE LINK]/EARLYBIRD
+Or pick yours: [STORE LINK]
+
+[Your name]
+
+
+-------------------------------------------------------------------------------------
+BROADCAST: BLACK FRIDAY   (Nov 27, resend Dec 1 with subject "Last day: 40% off")
+-------------------------------------------------------------------------------------
+Subject: Black Friday: 40% off every 2027 planner
+
+The biggest sale of the year is on.
+
+Code BLACKFRIDAY takes 40% off every planner and the bundle until Cyber Monday (Dec 1).
+
+Best deal: all five planners in the bundle [BUNDLE LINK]/BLACKFRIDAY
+
+Planners are digital gifts too. Buy one for the nurse, freelancer or gym friend in your life,
+and it arrives instantly.
+
+[Your name]
+
+
+-------------------------------------------------------------------------------------
+BROADCAST: NEW YEAR   (Dec 26, resend Jan 4 with subject "Last chance: 25% off")
+-------------------------------------------------------------------------------------
+Subject: Your 2027 starts on a blank page
+
+New year, clean slate. If you want to plan it properly, code NEWYEAR takes 25% off every
+planner and the bundle until January 5.
+
+Ten minutes on the year pages this week will steer your whole year. Start here: [STORE LINK]
+
+Happy New Year!
+[Your name]
